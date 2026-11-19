@@ -1,0 +1,21 @@
+récupérer manuellement depuis un navigateur si besoin.
+
+PGSSI-S (Politique Générale de Sécurité des Systèmes d'Information de Santé) — ANS :
+- Corpus documentaire complet : https://esante.gouv.fr/ens/offre/pgssi-s
+
+HDS (certification Hébergeur de Données de Santé) — ANS, bloqué au téléchargement direct :
+
+- Page certification : https://esante.gouv.fr/labels-certifications/hds/certification-des-hebergeurs-de-donnees-de-sante
+
+NIS2 (directive UE 2022/2555) :
+- Au 28/10/2026, la France n'a PAS encore de loi de transposition promulguée. Le projet de loi
+  "Résilience" (transpose NIS2 + REC + volet DORA) a été adopté au Sénat le 12/03/2025 mais son
+  passage à l'Assemblée nationale a été retiré de l'ordre du jour le 06/10/2026 — pas de texte
+  définitif à ce jour.
+- ANSSI a publié en attendant le ReCyF (Référentiel cybersécurité fondamental, 17/03/2026), qui
+  anticipe les obligations techniques de NIS2 — à récupérer sur https://cyber.gouv.fr/ (recherche
+  "ReCyF").
+- Page ANSSI de référence : https://cyber.gouv.fr/la-directive-nis-2
+
+
+https://www.systeme-de-design.gouv.fr/version-courante/fr
